@@ -1,6 +1,6 @@
 <p align="center">
       <img src="https://i.ibb.co/X5dNS47/image.png" height="128">
-    <h1 align="center" style="font-size: 40px; margin-bottom: 20px;">DevStudio</h1>
+    <h1 align="center" style="margin-bottom: 20px;">DevStudio</h1>
 </p>
 
 # DevStudio
