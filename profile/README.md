@@ -1,7 +1,5 @@
 <p align="center">
-    <picture>
       <img src="https://i.ibb.co/X5dNS47/image.png" height="128">
-    </picture>
     <h1 align="center" style="font-size: 40px; margin-bottom: 20px;">DevStudio</h1>
 </p>
 
