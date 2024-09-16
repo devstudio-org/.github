@@ -1,0 +1,2 @@
+# .github
+Github config repo.
